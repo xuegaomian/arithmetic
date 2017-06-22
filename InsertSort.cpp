@@ -1,7 +1,7 @@
 #include<stdio.h>
 #define N 10
 int main(void){
-	int a[N]={2,4,5,6,2,1,7,8,9,3};
+	int a[N]={2,4,5,6,2,1,7,8,9,3,4};
 	int temp,p,i;
 	for(i=1;i<N;i++){
 		//将元素拿出来放到temp中
